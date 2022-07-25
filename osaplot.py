@@ -3,7 +3,7 @@ import os
 from pathlib import Path
 import numpy as np
 
-folder_path = Path('2022-06-22 POC4 MIT material annealed at LMF/cells456')
+folder_path = Path('E:/PCM/Testing Setup/Data/2022-07-25_POC4 with PCM asdep devices456')
 
 xs = []
 ys = []
